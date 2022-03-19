@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @commit2no1
-- 👀 I’m interested in learning programing methods.
+- 👀 I’m interested in learning programming methods.
 - 🌱 I’m currently learning , i am reviewing python and other languages.
 - 💞️ I’m looking to collaborate on i dont know really.
 - 📫 How to reach me ...
